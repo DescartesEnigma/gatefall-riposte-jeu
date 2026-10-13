@@ -2,7 +2,7 @@
 
 ## Jouer
 
-1. Télécharge le lanceur : **[Gatefall-Riposte-Lanceur.zip](https://github.com/DescartesEnigma/gatefall-riposte-jeu/raw/main/lanceur/Gatefall-Riposte-Lanceur.zip)** (38 Mo).
+1. Télécharge le lanceur : **[Gatefall-Riposte-Lanceur.zip](https://github.com/DescartesEnigma/gatefall-riposte-jeu/raw/main/lanceur/Gatefall-Riposte-Lanceur.zip)** (40 Mo).
 2. Clic droit sur le zip → **Extraire tout**. Tu obtiens un dossier « Gatefall Riposte ».
 3. Dans ce dossier, lance **Gatefall Riposte - Lanceur.exe** : il télécharge le jeu (environ 900 Mo),
    puis le bouton **Jouer** s'allume. Aux mises à jour, il ne télécharge que ce qui a changé.
