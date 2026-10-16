@@ -1,11 +1,11 @@
 {
- "version": "0.9.8",
- "date": "2026-10-13 13:00",
- "notes": "Version 0.9.8\n- Les 29 repaires secrets ont enfin leur décor et leur lumière.\n- Forge, onglet Légendes : 50 trophées d'un boss de donjon + 50 pierres d'âme = un légendaire de ta classe. Les autres trophées s'échangent contre des pierres d'âme.\n- L'herboriste prépare des potions avec tes plantes et tes poissons.\n- Les panoplies demandent le minerai et le bois de leur région ; pêche dans toutes les régions.\n- Hôtel des ventes entre joueurs (onglet Joueurs).\n- Coffres de combo : potions de mana. Note A ou S en donjon : fragments de clé.\n- Sac plein : l'objet part à la banque au lieu de disparaître.\n- Corrections : duplication à l'échange, double achat à l'HDV, monstres en double en groupe, et d'autres.\n",
+ "version": "0.9.9",
+ "date": "2026-10-16 14:36",
+ "notes": "Version 0.9.9\n- Astuces plus discrètes : petit cadre à gauche, sous le combo de l'heure.\n- Caméra : sur les étages du fond, elle suit vraiment le héros (hauteur et profondeur), il reste au centre de l'écran.\n",
  "exe": "Gatefall Riposte.exe",
  "morceaux": [
   {
-   "sha": "1ed7c9a602615a44a7915747ae8898288b5c7eac185db1bc2afc8880f096607a",
+   "sha": "a61b7fa2e583c56b0cc056c69cc82ca55b6e3f54cedfe6c00309d956046e77b8",
    "taille": 25165824
   },
   {
@@ -21,7 +21,7 @@
    "taille": 25165824
   },
   {
-   "sha": "e48dbb62aff24ce9d63808e2edad7fb20f1e9e38415fe84d0c7b21b433254aed",
+   "sha": "9873f0a9a44fcf2d23edcbc68f00d58240f3894b8d2871a67f264386585f461f",
    "taille": 25165824
   },
   {
@@ -149,10 +149,10 @@
    "taille": 25165824
   },
   {
-   "sha": "adff99ef4388dfc88a4ee1908a8943b494496cb13f9c4a2318c96d9755b95fda",
-   "taille": 23195288
+   "sha": "dff05a3aa87e324c80f0780e05ce489fc395dad705ec2d405f4836a59f9443ed",
+   "taille": 23195512
   }
  ],
- "sha_total": "b0a8de204a8bb937d29da34690c62ea7f58d9a6daedb582435d7713c962dec0b",
- "taille": 929164952
+ "sha_total": "a95a9e1c723f1f810f41bb9f5c9d941ae19ce287a116e4bbdadd1a12971bc4b4",
+ "taille": 929165176
 }
