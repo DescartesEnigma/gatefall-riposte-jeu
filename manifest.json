@@ -1,11 +1,11 @@
 {
- "version": "0.9.10",
- "date": "2026-10-16 18:25",
- "notes": "0.9.10 — retours de Tom (16 oct.)\n- Sorts revus : plus de doublons, l'attaque suit le nom (Faucon, Tourelle, Étendard, Créneaux, Crochet, Marques…), évolutions qui remplacent leur sort de base dans la barre.\n- Effets 3D modélisés pour chaque sort, invocations, projectiles et marques.\n- Démo 3D des sorts au survol vérifiée (le bon sort, qui touche), et au choix de la classe à la création d'un héros.\n- Endurance des ruées (100, +10 tous les 10 niveaux, 25 par ruée ; l'esquive parfaite la rend).\n- Donjon à finir pour passer à la zone suivante.\n- Poids porté : 100 kg de base.\n- Hôtel des ventes : onglets Acheter / Vendre, marchand ou joueurs ; étal de 20 objets.\n- Banque : un seul coffre illimité, recherche, retrait d'une partie d'une pile.\n- Sélection dans le sac : banque, vente, recyclage en lot.\n- Pêche dans de vrais points d'eau, filons contre la roche, pas d'arbres sous terre.\n- Potions à valeur fixe (5 tailles), antidote et remède ; capacités des monstres ; ultime verrouillé ; caméra plus rapide.\n",
+ "version": "0.9.11",
+ "date": "2026-10-16 21:56",
+ "notes": "0.9.11 — hitbox du décor et difficulté (16 oct.)\n- On ne traverse plus le décor : arbres, rochers, pierres levées, caisses, lampadaires, statues… sont solides (on glisse le long vers le côté libre).\n- Blocs et étages : ils arrêtent de côté, on monte dessus en sautant ; plus de glissades ni d'aller-retour au bord.\n- Arbres et filons de récolte solides tant qu'ils ne sont pas coupés / extraits ; points de récolte coincés dans un bloc replacés.\n- Difficulté relevée : monstres plus forts (dégâts ×1,9), boss de champ plus solides, malus d'écart de niveau dès 2 niveaux.\n- Un héros niveau 1 ne bat plus le boss niveau 5 du Chemin des Saules (0 victoire sur 12 essais, potions comprises).\n- Capacités des monstres (étourdir, geler, poisons…) un peu adoucies pour compenser.\n",
  "exe": "Gatefall Riposte.exe",
  "morceaux": [
   {
-   "sha": "bbb4fae31147e3c0de34b4bbb2a7ac668cf36dc2c2e31d773e231af4898c1421",
+   "sha": "801ecd34c1f98ce54343a9d4dd66ede5d6434d056a0f03ee4e8448b78f1f31c6",
    "taille": 25165824
   },
   {
@@ -21,7 +21,7 @@
    "taille": 25165824
   },
   {
-   "sha": "02dd657782579d06d2028fda65f4d1a04757bf06a23f031c7ee5ddfa1f4c743b",
+   "sha": "87566539c1d17ee922d6aa6e1ae8f6a303788f7bacb1fe3a0e1b1bc93c8d69ae",
    "taille": 25165824
   },
   {
@@ -153,10 +153,10 @@
    "taille": 25165824
   },
   {
-   "sha": "794b9664b1a2cbc4340e8cbad9bd5c1b974e8e2f92b03d3920a4b640da1abab9",
-   "taille": 9298928
+   "sha": "1d5a027287ee2240eca43a61c70df1d3b2a3ca7cf4a1cd0f648fd5fc33a01020",
+   "taille": 9328280
   }
  ],
- "sha_total": "bfbfd02eef7ab361cbbb0d326813f428f5aac94a3ea6dca2ce31e71252943fa0",
- "taille": 940434416
+ "sha_total": "0a8efa854c7df08f99981bd645045c34cf81f9b4e6151ce511e9e86491075e4e",
+ "taille": 940463768
 }
