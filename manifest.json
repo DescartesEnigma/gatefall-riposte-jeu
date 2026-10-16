@@ -1,11 +1,11 @@
 {
- "version": "0.9.9",
- "date": "2026-10-16 14:36",
- "notes": "Version 0.9.9\n- Astuces plus discrètes : petit cadre à gauche, sous le combo de l'heure.\n- Caméra : sur les étages du fond, elle suit vraiment le héros (hauteur et profondeur), il reste au centre de l'écran.\n",
+ "version": "0.9.10",
+ "date": "2026-10-16 18:25",
+ "notes": "0.9.10 — retours de Tom (16 oct.)\n- Sorts revus : plus de doublons, l'attaque suit le nom (Faucon, Tourelle, Étendard, Créneaux, Crochet, Marques…), évolutions qui remplacent leur sort de base dans la barre.\n- Effets 3D modélisés pour chaque sort, invocations, projectiles et marques.\n- Démo 3D des sorts au survol vérifiée (le bon sort, qui touche), et au choix de la classe à la création d'un héros.\n- Endurance des ruées (100, +10 tous les 10 niveaux, 25 par ruée ; l'esquive parfaite la rend).\n- Donjon à finir pour passer à la zone suivante.\n- Poids porté : 100 kg de base.\n- Hôtel des ventes : onglets Acheter / Vendre, marchand ou joueurs ; étal de 20 objets.\n- Banque : un seul coffre illimité, recherche, retrait d'une partie d'une pile.\n- Sélection dans le sac : banque, vente, recyclage en lot.\n- Pêche dans de vrais points d'eau, filons contre la roche, pas d'arbres sous terre.\n- Potions à valeur fixe (5 tailles), antidote et remède ; capacités des monstres ; ultime verrouillé ; caméra plus rapide.\n",
  "exe": "Gatefall Riposte.exe",
  "morceaux": [
   {
-   "sha": "a61b7fa2e583c56b0cc056c69cc82ca55b6e3f54cedfe6c00309d956046e77b8",
+   "sha": "bbb4fae31147e3c0de34b4bbb2a7ac668cf36dc2c2e31d773e231af4898c1421",
    "taille": 25165824
   },
   {
@@ -21,138 +21,142 @@
    "taille": 25165824
   },
   {
-   "sha": "9873f0a9a44fcf2d23edcbc68f00d58240f3894b8d2871a67f264386585f461f",
+   "sha": "02dd657782579d06d2028fda65f4d1a04757bf06a23f031c7ee5ddfa1f4c743b",
    "taille": 25165824
   },
   {
-   "sha": "d3082b7c4846276fa8af54d1d91770e165068fb932309081d76cf31e77cd4ada",
+   "sha": "b2675acab076462162e6b9287962dfd27db4ee3d03f92239703a2745a7f40ef7",
    "taille": 25165824
   },
   {
-   "sha": "4eddfed993b2ad6e1ac6d7636fd9821b54ea9cea4e901df06324bc5b9903405c",
+   "sha": "19bc4fe3a92e7f50a5f6ec95cbef210b727e60de36a0893d10c45a92edc96164",
    "taille": 25165824
   },
   {
-   "sha": "c0fe92b18689b5fe7143bdc3eb29e79b08b4125819f8b3039962d25195a20068",
+   "sha": "1517ceb84fc36764b854f4297ea56046b82ebf6b64a2bed9de60fab3260eddc1",
    "taille": 25165824
   },
   {
-   "sha": "b11f5cdd227da0f660adb546f53f70250d33592fde35b11252fa2cf9e39771f4",
+   "sha": "781c24c4f12d4b77d510bef659e51f36030d21697256ca2f41435f63b9e5b303",
    "taille": 25165824
   },
   {
-   "sha": "543e33f2daeffbcf44c5978a2799f711120c3475c926562fc8997cc6d3b17389",
+   "sha": "faeeda0f1e57897bafc5e3adce95a817adbe593a6742948795b62ee9f36310a6",
    "taille": 25165824
   },
   {
-   "sha": "c5b19792333f4be03dd96b4541810e141bdb125295d636f6dd5534e8f6985e9a",
+   "sha": "fed7bd9b5bd513b09ae6ea9ca477366bec91cecdd3bfa7e064e8c14f85c40c53",
    "taille": 25165824
   },
   {
-   "sha": "8f86342f1dbc1bc78547dc127d16792e6202ef94e9550e064547ae9e1fccddbb",
+   "sha": "dc0b7941c34075fd02d2424b921488f7617a056f897a86a5e70a13403020f7d2",
    "taille": 25165824
   },
   {
-   "sha": "c3286af940b584ff96f034145ec3627e00bc074c77dc6b9e0ce21d9f7eee174c",
+   "sha": "f186b25853fe78760e71cac3919cb12fc3d047c31388168e098392831b79eb2d",
    "taille": 25165824
   },
   {
-   "sha": "017138831d0b80e171b5d968b50554fdb7012fc346d69c4c4e2199f2773ee5a5",
+   "sha": "3af5bfd88edf66a367cf8f7c1b021b743374254762028ccd0ab394153efa4410",
    "taille": 25165824
   },
   {
-   "sha": "a1f72f89b34bd7721f03c2d7910480b94c15d9460e17ef6d5910d6979bb34c25",
+   "sha": "de73c1af96e0c42718bbcbdac02bcc89c2659c7861c2a30094870f8054c4ee26",
    "taille": 25165824
   },
   {
-   "sha": "7d8fcf74dc188d0abeb5ed7abcbac5deb82789a071920af593d0c5c3b458ca8f",
+   "sha": "eae843d697f7d1cddc98a359ec05566c2d0b43e2445b7bda92e2ba861b7e53e8",
    "taille": 25165824
   },
   {
-   "sha": "e64a661d46a8d5477444586b1e1f658d1924b6a0c9eb4a346fecbdeca7b95c73",
+   "sha": "10e3d68da020a9bd78807dd96ffef1541415c9970709827767bced52f952ebd2",
    "taille": 25165824
   },
   {
-   "sha": "bc7900a030dbf625b61ea8e5a5160ba925c7183796ab75e4226f13242735e615",
+   "sha": "7c1a9e1148af5635f50e2897160ce4bb40fb4607f364890e900eb1808169c8f1",
    "taille": 25165824
   },
   {
-   "sha": "45b6cf4e379a40264dfe958d57255a5cc71f20787c973abfb4d4a39791ba8d07",
+   "sha": "8fe9e48dbccf27ea396f136052aa3e2bb0f40517db8083a1c4466ffd0e7eca11",
    "taille": 25165824
   },
   {
-   "sha": "9b0f0aab309a9be5cd09ac19707a6b41ca9bc72e18add489025391073f1ac9da",
+   "sha": "697cdd3e7cea84a4319efb3f3e442cf982e94d922af0f33f5d0937b535105f70",
    "taille": 25165824
   },
   {
-   "sha": "5df00717c6a05945679658106129880453b6924525b97ae94d5425efbe3a48fb",
+   "sha": "c2d8130815af230521ea5b6a7647675153e3835eb9054c9834e1eee5e2fa5922",
    "taille": 25165824
   },
   {
-   "sha": "46c26578a768bc727f3caf523bb42575247663d7230787445488e9d289739b1d",
+   "sha": "5fafea4c884809663607f5c1b04812db3c83cdfa9f74cdea3976baa49d10487d",
    "taille": 25165824
   },
   {
-   "sha": "bd8f831ced6a8a4d8cbdbf9a37d81d91f18f05d5f60bdf7c358c69629ce22bc7",
+   "sha": "a82bb8c276de49dff3261e5581543882362f16fa6c4ceaa1bfa24d5e987d16ef",
    "taille": 25165824
   },
   {
-   "sha": "80257a09c12f77e25a566dad120d953f4991063cbf1d0e946748f0ffa57df6cb",
+   "sha": "49988bf692f16fd25e1e7ec30b731049586f58cc4538e7ef3d056395c4137729",
    "taille": 25165824
   },
   {
-   "sha": "39acfa338796e5b08b4ec7a32104558959304729829794bdfa984f9f7c88491f",
+   "sha": "1ad7f54957f25a9829f4046a0bf06a659d38591f0791f297604150034a6dc53c",
    "taille": 25165824
   },
   {
-   "sha": "4c5ec2801916e3eac858a544382c3963f1f7ff7fb0f2cfd32e5611a82639047a",
+   "sha": "866131dc4099a2616008b02bbb12a672798a4de8cb27727914556412796fd4d0",
    "taille": 25165824
   },
   {
-   "sha": "9a2812cd0bb294ae185ae0d5b8c09480b816909976b94b3e0799d4ae86e0ab65",
+   "sha": "ebf7645d4a16dc1d9d1493a25a7af867858dc56052af674d03b1e0547263032b",
    "taille": 25165824
   },
   {
-   "sha": "9fa163567fcc86fcc9c83017cb17f5a95ab4ae5e93e3cdbcef8f5117d10e9bf8",
+   "sha": "244be6460da40ce4cd6e2b5929fbc1746395b69e3eba1db9d4d8e04da0f4d202",
    "taille": 25165824
   },
   {
-   "sha": "67d8d251095c5a02dfc30049cc20a4c0e369d9e335c7e43e29124db050771d43",
+   "sha": "9d9d57b53486d962a4a7a00609611dfabc0a1d90359dec429f46eaeec9304120",
    "taille": 25165824
   },
   {
-   "sha": "628c04580d912970099397482f793d135c7eaf955f41c7ec59feed2bc45cf791",
+   "sha": "df41ab869ca5e600354ec1f30614fed1d1dabaa7718d7b794b75b838369ec60a",
    "taille": 25165824
   },
   {
-   "sha": "2f51bbec6e72154010faf89c611986ff61e79bd7aca6edb9ef7620d55c4eed7b",
+   "sha": "c77d66253d6f0a8a5f3039ff7af574b9da9b9b2af6d5a44127f1adec786cb5eb",
    "taille": 25165824
   },
   {
-   "sha": "3e3cc73c5953a5357e0a0721bf03eaa0483f66cc54801f8270da89201bede4a0",
+   "sha": "cd894f142058f3a1ce29db2bed2431bb1980ccbe6d30b029e492dbddcda5a821",
    "taille": 25165824
   },
   {
-   "sha": "1276de9d248f4182420648fdc8b6a11ba50705d2d4b6b4bdcca23dc05c45bb3d",
+   "sha": "26217f751cae693c2d4b2af996367baea2faa2a0b1e23d3170bf44c8bfcd8757",
    "taille": 25165824
   },
   {
-   "sha": "c994dce303e9913ae7cdfbc2c6a96f2ec86342680e2a89f3a1b3105f4785e3b7",
+   "sha": "ff3dcd2b1edf6fd8e7b66918bc54a9775f7481a8ad164ba99a047d6ab1f05288",
    "taille": 25165824
   },
   {
-   "sha": "2b88744fffb3c6898e712e14b42e3b3440b7565fd218abce9d2998469273a692",
+   "sha": "09ebfcc3c3509d81b2f5163ec9e8bca7198d56f2df6743210ee95c5bc9342205",
    "taille": 25165824
   },
   {
-   "sha": "1726038d35450f8b5565f73ad310abbd155ccbf56b0ecfb78ca7234740a3cc11",
+   "sha": "b6925072cc9b6a61c16e61f48f70b316a6623a1562733ebd1e37deebf9e1cc00",
    "taille": 25165824
   },
   {
-   "sha": "dff05a3aa87e324c80f0780e05ce489fc395dad705ec2d405f4836a59f9443ed",
-   "taille": 23195512
+   "sha": "eb7efcc459884e2691fafb89bfe938aba681b539c40670663056528225910363",
+   "taille": 25165824
+  },
+  {
+   "sha": "794b9664b1a2cbc4340e8cbad9bd5c1b974e8e2f92b03d3920a4b640da1abab9",
+   "taille": 9298928
   }
  ],
- "sha_total": "a95a9e1c723f1f810f41bb9f5c9d941ae19ce287a116e4bbdadd1a12971bc4b4",
- "taille": 929165176
+ "sha_total": "bfbfd02eef7ab361cbbb0d326813f428f5aac94a3ea6dca2ce31e71252943fa0",
+ "taille": 940434416
 }
